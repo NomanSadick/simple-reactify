@@ -28,7 +28,7 @@ const Content = () => {
           value={displayText}
           onChange={handleChange}
           className="border border-gray-300 rounded p-2 mb-2"
-          placeholder="Enter some text..."
+          placeholder="Enter some text.."
         />
         <div className="flex">
           <button
