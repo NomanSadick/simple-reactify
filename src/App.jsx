@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <Header title="My React Application" />
+      <Header title="My Simple Reactify Application" />
       <Content />
       <Footer />
     </>
